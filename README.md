@@ -4,7 +4,7 @@
 [![Software License][ico-license]](LICENSE.md)
 [![Total Downloads][ico-downloads]][link-downloads]
 
-[Markov chain](link-wikipedia) text generator for PHP.
+[Markov chain][link-wikipedia] text generator for PHP.
 
 ## Install
 
@@ -14,7 +14,7 @@ $ composer require mhilker/markov
 
 ## Example
 
-Create your markov table from your base text. [Some](link-satellites) [examples](link-stars) are provided in the [resources](link-resources) directory.
+Create your markov table from your base text. [Some][link-satellites] [examples][link-stars] are provided in the [resources][link-resources] directory.
 
 ``` php
 $text = 'your text goes here...';
